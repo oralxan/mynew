@@ -25,7 +25,7 @@ CONTACT_EMAIL = 'orallxannajmatdinova@gmail.com'
 
 
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
