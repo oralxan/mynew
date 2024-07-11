@@ -23,9 +23,9 @@ CONTACT_EMAIL = 'orallxannajmatdinova@gmail.com'
 
 
 
+# api/settings.py
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 
-
-ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
