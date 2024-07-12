@@ -1,2 +1,2 @@
 
-![Typing PNG](o.gif)</h3> 
+![Typing PNG](news.gif)</h3> 
