@@ -1,6 +1,6 @@
 
 ![Typing PNG](news.gif)</h3> 
-<h2>**Our news**</h2>
+<h2>Our news</h2>
 
 > new news is added at 7 in the morning and at 7 in the evening
 >> new update every season
