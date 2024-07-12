@@ -1,5 +1,8 @@
 
 ![Typing PNG](news.gif)</h3> 
+**Our news**
+
+> Text that is a quote
 <h3 align="center">Let's setup the project</h3>
 
 Create virtualenv
